@@ -34,3 +34,4 @@ getResults(process.argv[2], (result) => {
   }
   client.end();
 });
+
